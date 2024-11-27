@@ -73,27 +73,26 @@ The Bank Management System simulates basic ATM operations, allowing users to:
 bank.management.system/
 
 ├── src/                           # Source code files
-|
+
 │   ├── login.java                 # Login functionality and main entry point
-|
-│   ├── SignUp.java                # Account registration functionality
-|
+
+│   ├── SignUp.java                # Account registration functionality|
 │   ├── main_class.java            # Main ATM interface
-|
+
 │   ├── cone.java                  # Database connection setup
-|
+
 │   └── other files...             # Additional classes for functionality
-|
+
 ├── icon/                          # Image assets for the project
-|   
+    
 │   ├── bank.png                   # Bank logo
-|   
+   
 │   ├── card.png                   # Card icon for login interface
-|   
+  
 │   ├── backbg.png                 # Background image for GUI
-|
+
 ├── README.md                      # Project documentation
-|
+
 └── SQL/                           # SQL scripts for database setup
-    |
+    
     └── create_tables.sql          # Script to create required tables
