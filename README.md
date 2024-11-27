@@ -77,7 +77,7 @@ bank.management.system/
 │   ├── login.java                 # Login functionality and main entry point
 
 │   ├── SignUp.java                # Account registration functionality|
-│   ├── main_class.java            # Main ATM interface
+    ├── main_class.java            # Main ATM interface
 
 │   ├── cone.java                  # Database connection setup
 
